@@ -1,4 +1,15 @@
-## Hi there 👋
+#  Hi, I'm Rohma 👋
+
+💻 I’m currently learning web development and building projects to improve my skills.
+
+🌱 Exploring new technologies and expanding my knowledge step by step.
+
+🚀 I enjoy turning ideas into practical projects and learning through hands-on experience.
+
+📚 Always learning, building, and improving.
+
+⚡ **Learn. Build. Grow.**
+ 
 
 <!--
 **Rohmakashif28/RohmaKashif28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
